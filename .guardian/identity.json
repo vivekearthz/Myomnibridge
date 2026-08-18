@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "repository": "vivekearthz/Myomnibridge",
+  "portalKey": "myomnibridge",
+  "role": "slave",
+  "master": "MARTECH",
+  "patchVersion": "v56",
+  "managedBy": "project-guardian"
+}
