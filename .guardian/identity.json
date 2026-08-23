@@ -4,9 +4,6 @@
   "portalKey": "myomnibridge",
   "role": "slave",
   "master": "MARTECH",
-  "patchVersion": "v59",
-  "managedBy": "project-guardian",
-  "masterRepo": "vivekearthz/martech-fleet-registry",
-  "masterHost": "https://martech.innovexsis.com",
-  "agentVersion": 6
+  "patchVersion": "v56",
+  "managedBy": "project-guardian"
 }
